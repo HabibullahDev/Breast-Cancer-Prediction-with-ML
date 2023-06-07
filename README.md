@@ -7,8 +7,8 @@
 # Breast Cancer Prediction using Predictive Analytics model
 ---
 
-### Objective:
-The repository is a learning exercise to:
+### Objective:-
+The repository is a learning exercise to: 
 * Apply the fundamental concepts of machine learning from an available dataset
 * Evaluate and interpret and justify our results and interpretation based on observed dataset in Jupyter notebook
 
